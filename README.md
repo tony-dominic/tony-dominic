@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on making cool websites and building websites that are easy to use
 - 🤔 I’m looking for help with understanding websites better
 - 💬 Ask me about modern Javascript frameworks, best practices in front-end development, or anything related to web development
-- 📫 How to reach me: https://www.facebook.com/minhtoan.duong.1/
 - 💼 Portfolio: https://tony-dominic.vercel.app/
 - 😄 Pronouns: Tony or Dom(Dominic)
 - ⚡ Fun fact: I love learning new things about coding, and once I stayed up all night building a website game (Flappy Bird clone)! It was hard, but I learned a lot about solving problems & self-research
